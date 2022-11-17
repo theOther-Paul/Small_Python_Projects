@@ -10,7 +10,7 @@ This repo contains some basic terminal programs that helped me understand variou
 - writing functional and clean code
 - refactoring each non-scalable function
 
-##Project structure and brief explanation
+## Project structure and brief explanation
 ### Box-drawing Menu:
 
 - creates an adaptive menu using the box drawing unicode characters
