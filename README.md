@@ -16,7 +16,7 @@ This repo contains some basic terminal programs that helped me understand variou
 - creates an adaptive menu using the box drawing unicode characters
 - have a list of dictionaries as input and splits the dictionaries into columns
 
-###Temperature Convertor:
+### Temperature Convertor:
 
 - converts a given temperature between 0K and 1K from any scale into any scale
 - was constructed using a data class and a class, using a dictionary to remember each scale and limit equivalents
