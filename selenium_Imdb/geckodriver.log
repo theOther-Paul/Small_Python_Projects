@@ -1,0 +1,537 @@
+1663482557643	geckodriver	INFO	Listening on 127.0.0.1:58986
+1663482560782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexhY78u"
+1663482561057	Marionette	INFO	Marionette enabled
+1663482561061	Marionette	INFO	Listening on port 58996
+WebDriver BiDi listening on ws://localhost:58987
+Read port: 58996
+1663482561164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexhY78u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58987/devtools/browser/28b1cac3-8405-4a56-92c0-94ed27410586
+1663482573170	Marionette	INFO	Stopped listening on port 58996
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663482696755	geckodriver	INFO	Listening on 127.0.0.1:59052
+1663482699871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilevDjwBy"
+1663482700132	Marionette	INFO	Marionette enabled
+1663482700136	Marionette	INFO	Listening on port 59062
+WebDriver BiDi listening on ws://localhost:59053
+Read port: 59062
+1663482700355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilevDjwBy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59053/devtools/browser/e8fa6cfa-8ac1-487a-b2a5-667247020ce3
+1663482712895	Marionette	INFO	Stopped listening on port 59062
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663483021030	geckodriver	INFO	Listening on 127.0.0.1:59143
+1663483024102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileva1elP"
+1663483024360	Marionette	INFO	Marionette enabled
+1663483024364	Marionette	INFO	Listening on port 59153
+WebDriver BiDi listening on ws://localhost:59144
+Read port: 59153
+1663483024567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileva1elP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59144/devtools/browser/ef632172-b5ac-4c57-9da2-5348f09cf353
+1663483044360	geckodriver	INFO	Listening on 127.0.0.1:59197
+1663483047454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileNwEuaG"
+1663483047707	Marionette	INFO	Marionette enabled
+1663483047711	Marionette	INFO	Listening on port 59207
+WebDriver BiDi listening on ws://localhost:59198
+Read port: 59207
+1663483047896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileNwEuaG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59198/devtools/browser/98e801a8-5b3b-412d-ac40-db54a84e4929
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663483095429	Marionette	INFO	Stopped listening on port 59207
+1663483130334	geckodriver	INFO	Listening on 127.0.0.1:59266
+1663483133429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuiP2d9"
+1663483133688	Marionette	INFO	Marionette enabled
+1663483133692	Marionette	INFO	Listening on port 59276
+WebDriver BiDi listening on ws://localhost:59267
+Read port: 59276
+1663483133926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuiP2d9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59267/devtools/browser/adfad631-8d45-41bb-93af-2bff3c3bb699
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663483598011	Marionette	INFO	Stopped listening on port 59276
+\rust_mozprofileO2XsdE"
+1663483328898	Marionette	INFO	Marionette enabled
+1663483328901	Marionette	INFO	Listening on port 59346
+WebDriver BiDi listening on ws://localhost:59337
+Read port: 59346
+1663483329104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileO2XsdE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59337/devtools/browser/d8d47c9f-4f02-43d3-855a-b6419918d026
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663483595343	Marionette	INFO	Stopped listening on port 59346
+!!! error running onStopped callback: TypeError: callback is not a function
+1663483602127	geckodriver	INFO	Listening on 127.0.0.1:59416
+1663483605217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile3HXCPo"
+1663483605465	Marionette	INFO	Marionette enabled
+1663483605469	Marionette	INFO	Listening on port 59426
+WebDriver BiDi listening on ws://localhost:59417
+Read port: 59426
+1663483605709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile3HXCPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59417/devtools/browser/7c206307-c162-4fce-ba4e-1d475458c85d
+1663483752452	Marionette	INFO	Stopped listening on port 59426
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofile7lcCWf"
+1663483706773	Marionette	INFO	Marionette enabled
+1663483706776	Marionette	INFO	Listening on port 59493
+WebDriver BiDi listening on ws://localhost:59484
+Read port: 59493
+1663483706977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile7lcCWf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59484/devtools/browser/c14d5569-5590-474f-a617-8f28757a9657
+1663483751279	Marionette	INFO	Stopped listening on port 59493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663483947087	geckodriver	INFO	Listening on 127.0.0.1:59567
+1663483950200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileC9Aj71"
+1663483950450	Marionette	INFO	Marionette enabled
+1663483950454	Marionette	INFO	Listening on port 59577
+WebDriver BiDi listening on ws://localhost:59568
+Read port: 59577
+1663483950669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileC9Aj71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59568/devtools/browser/65bd505d-263c-4155-8aca-e24becdc511a
+1663483976998	Marionette	INFO	Stopped listening on port 59577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 4428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663484005095	geckodriver	INFO	Listening on 127.0.0.1:59631
+1663484008150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileUFjnkn"
+1663484008396	Marionette	INFO	Marionette enabled
+1663484008400	Marionette	INFO	Listening on port 59641
+WebDriver BiDi listening on ws://localhost:59632
+Read port: 59641
+1663484008622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileUFjnkn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59632/devtools/browser/db7126d2-fc72-4764-a3d3-edbc88b93630
+1663484058260	Marionette	INFO	Stopped listening on port 59641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileYaoYfl"
+1663484056597	Marionette	INFO	Marionette enabled
+1663484056600	Marionette	INFO	Listening on port 59698
+WebDriver BiDi listening on ws://localhost:59689
+Read port: 59698
+1663484056799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663484061732	geckodriver	INFO	Listening on 127.0.0.1:59706
+1663484064819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileDtUYDp"
+1663484065075	Marionette	INFO	Marionette enabled
+1663484065079	Marionette	INFO	Listening on port 59716
+WebDriver BiDi listening on ws://localhost:59707
+Read port: 59716
+1663484065255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileDtUYDp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59707/devtools/browser/46158969-e0d1-4930-a975-802799c55ce2
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663484133927	Marionette	INFO	Stopped listening on port 59716
+1663484137145	geckodriver	INFO	Listening on 127.0.0.1:59770
+1663484140223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile2VYefK"
+1663484140468	Marionette	INFO	Marionette enabled
+1663484140471	Marionette	INFO	Listening on port 59780
+WebDriver BiDi listening on ws://localhost:59771
+Read port: 59780
+1663484140642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile2VYefK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59771/devtools/browser/3977ddc1-34e6-4460-8ed1-6168f007e54b
+1663484223145	Marionette	INFO	Stopped listening on port 59780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663484240590	geckodriver	INFO	Listening on 127.0.0.1:59846
+1663484243648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuJdKY3"
+1663484243890	Marionette	INFO	Marionette enabled
+1663484243894	Marionette	INFO	Listening on port 59856
+WebDriver BiDi listening on ws://localhost:59847
+Read port: 59856
+1663484244094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuJdKY3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59847/devtools/browser/7a4d73fa-aea2-48fa-892b-4eb1a390987a
+1663484345474	Marionette	INFO	Stopped listening on port 59856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663484352398	geckodriver	INFO	Listening on 127.0.0.1:59921
+1663484355459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuOIYZW"
+1663484355702	Marionette	INFO	Marionette enabled
+1663484355705	Marionette	INFO	Listening on port 59931
+WebDriver BiDi listening on ws://localhost:59922
+Read port: 59931
+1663484355906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileuOIYZW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59922/devtools/browser/13962827-5772-4710-a850-0b01a8504fe0
+1663484401657	Marionette	INFO	Stopped listening on port 59931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663484835232	geckodriver	INFO	Listening on 127.0.0.1:60038
+1663484838304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileRbhMpy"
+1663484838545	Marionette	INFO	Marionette enabled
+1663484838548	Marionette	INFO	Listening on port 60048
+WebDriver BiDi listening on ws://localhost:60039
+Read port: 60048
+1663484838742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileRbhMpy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60039/devtools/browser/5a9ae05b-0ad4-4a4b-87c7-35a9acf83b0c
+1663485138021	Marionette	INFO	Stopped listening on port 60048
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileXaIQok"
+1663484951718	Marionette	INFO	Marionette enabled
+1663484951721	Marionette	INFO	Listening on port 60119
+WebDriver BiDi listening on ws://localhost:60109
+Read port: 60119
+1663484951918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileXaIQok\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60109/devtools/browser/de0fcbb1-4f4f-4052-9df7-bda071bcc824
+1663485136821	Marionette	INFO	Stopped listening on port 60119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofilejgxKff"
+1663485039190	Marionette	INFO	Marionette enabled
+1663485039193	Marionette	INFO	Listening on port 60186
+WebDriver BiDi listening on ws://localhost:60177
+Read port: 60186
+1663485039389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilejgxKff\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60177/devtools/browser/cf38e8a7-b4d2-4657-ae6b-690e8083b4ec
+1663485135910	Marionette	INFO	Stopped listening on port 60186
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663485144251	geckodriver	INFO	Listening on 127.0.0.1:60259
+1663485147371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexrzY2Z"
+1663485147612	Marionette	INFO	Marionette enabled
+1663485147616	Marionette	INFO	Listening on port 60269
+WebDriver BiDi listening on ws://localhost:60260
+Read port: 60269
+1663485147823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexrzY2Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60260/devtools/browser/414665c6-c3d6-4e28-a8dc-50c01996f48f
+1663485170378	Marionette	INFO	Stopped listening on port 60269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663485293221	geckodriver	INFO	Listening on 127.0.0.1:60340
+1663485296289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileNgrzPM"
+1663485296530	Marionette	INFO	Marionette enabled
+1663485296533	Marionette	INFO	Listening on port 60350
+WebDriver BiDi listening on ws://localhost:60341
+Read port: 60350
+1663485296713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileNgrzPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60341/devtools/browser/b07917da-558e-4c95-a982-ad518b81a2a4
+1663485302539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[7]</t.prototype.getLoggedInStatus@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:12429
+a@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:11271
+[17]</f.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:38747
+[17]</f.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:33836
+[17]</f.imdb.WatchlistRibbon@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:32981
+[17]</d.fn.watchlistRibbon@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:41321
+[1]</window.imdb.CS.Chart.InitChart@https://m.media-amazon.com/images/S/sash/JkadsPuCKXe2k5I.js:1:848
+jQueryOnReady/<@https://www.imdb.com/chart/top/?ref_=nv_mv_250:11718:42
+e@https://m.media-amazon.com/images/S/sash/JJwdLH4ViTW-kI$.js:1:325090
+require<.jquery</</Deferred/then/l/</t<@https://m.media-amazon.com/images/S/sash/JJwdLH4ViTW-kI$.js:1:325392
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.error: "Exception while getting unique selector" (new TypeError("this.inspector is null", "resource://devtools/client/inspector/rules/rules.js", 380))
+console.error: "Exception while getting unique selector" (new TypeError("this.inspector is null", "resource://devtools/client/inspector/rules/rules.js", 380))
+Handler function BrowserTabList.prototype.onCloseWindow's delayed body threw an exception: TypeError: topBrowsingContext is null
+Stack: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:391:7
+getAllBrowsingContexts@resource://devtools/server/actors/watcher.js:150:12
+destroyTargets@resource://devtools/server/actors/watcher/target-helpers/frame-helper.js:164:36
+unwatchTargets@resource://devtools/server/actors/watcher.js:241:24
+destroy@resource://devtools/server/actors/watcher.js:173:12
+destroy@resource://devtools/shared/protocol/Pool.js:211:17
+destroy@resource://devtools/shared/protocol/Actor.js:91:11
+destroy@resource://devtools/server/actors/descriptors/tab.js:245:29
+BrowserTabList.prototype._handleActorClose@resource://devtools/server/actors/webbrowser.js:411:9
+BrowserTabList.prototype.onCloseWindow</<@resource://devtools/server/actors/webbrowser.js:660:16
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+Line: 391, column: 7
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1663485377206	Marionette	INFO	Stopped listening on port 60350
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/layout88, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967311/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967306/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967308/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967310/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: (new Error("Connection closed, pending request to server0.conn0.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_startListening@resource://devtools/shared/commands/resource/resource-command.js:1004:31\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7980:36\nWindowIsClosing@chrome://browser/content/browser.js:8009:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3031:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:417:10
+notifyResourceAvailable@resource://devtools/server/actors/watcher.js:392:10
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:240:10
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+Handler function threw an exception: TypeError: this._extraPools is null
+Stack: addActorPool@resource://devtools/server/devtools-server-connection.js:118:5
+get _poolMap@resource://devtools/shared/protocol/Pool.js:81:15
+manage@resource://devtools/shared/protocol/Pool.js:102:5
+_prepareHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:557:12
+addRequestHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:309:10
+exports.fetchRequestHeadersAndCookies@resource://devtools/server/actors/network-monitor/utils/network-utils.js:332:9
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:18
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 118, column: 5
+console.error: (new TypeError("this._extraPools is null", "resource://devtools/server/devtools-server-connection.js", 118))
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+notifyTargetDestroyed/<@resource://devtools/server/actors/watcher.js:317:39
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:317:22
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:417:10
+notifyResourceAvailable@resource://devtools/server/actors/watcher.js:392:10
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:240:10
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+Handler function threw an exception: TypeError: this._extraPools is null
+Stack: addActorPool@resource://devtools/server/devtools-server-connection.js:118:5
+get _poolMap@resource://devtools/shared/protocol/Pool.js:81:15
+manage@resource://devtools/shared/protocol/Pool.js:102:5
+_prepareHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:557:12
+addRequestHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:309:10
+exports.fetchRequestHeadersAndCookies@resource://devtools/server/actors/network-monitor/utils/network-utils.js:332:9
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:18
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 118, column: 5
+console.error: (new TypeError("this._extraPools is null", "resource://devtools/server/devtools-server-connection.js", 118))
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:417:10
+notifyResourceAvailable@resource://devtools/server/actors/watcher.js:392:10
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:240:10
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+Handler function threw an exception: TypeError: this._extraPools is null
+Stack: addActorPool@resource://devtools/server/devtools-server-connection.js:118:5
+get _poolMap@resource://devtools/shared/protocol/Pool.js:81:15
+manage@resource://devtools/shared/protocol/Pool.js:102:5
+_prepareHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:557:12
+addRequestHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:309:10
+exports.fetchRequestHeadersAndCookies@resource://devtools/server/actors/network-monitor/utils/network-utils.js:332:9
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:18
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 118, column: 5
+console.error: (new TypeError("this._extraPools is null", "resource://devtools/server/devtools-server-connection.js", 118))
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:75:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:49:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:350:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:228:21
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663485494313	geckodriver	INFO	Listening on 127.0.0.1:60414
+1663485497385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilevPvtDz"
+1663485497631	Marionette	INFO	Marionette enabled
+1663485497634	Marionette	INFO	Listening on port 60424
+WebDriver BiDi listening on ws://localhost:60415
+Read port: 60424
+1663485497823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilevPvtDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60415/devtools/browser/2a6afce9-4fb7-433e-a4c2-5ecbd56974bc
+1663485582749	Marionette	INFO	Stopped listening on port 60424
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485719800	geckodriver	INFO	Listening on 127.0.0.1:60571
+1663485727103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileI3xC9C"
+1663485727403	Marionette	INFO	Marionette enabled
+1663485727406	Marionette	INFO	Listening on port 60584
+WebDriver BiDi listening on ws://localhost:60572
+Read port: 60584
+1663485727561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileI3xC9C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60572/devtools/browser/2a048835-1e90-4717-9b8d-c6a9eb147bca
+1663486035668	geckodriver	INFO	Listening on 127.0.0.1:51697
+1663486038770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexlMSyu"
+1663486039037	Marionette	INFO	Marionette enabled
+1663486039041	Marionette	INFO	Listening on port 51707
+WebDriver BiDi listening on ws://localhost:51698
+Read port: 51707
+1663486039261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofilexlMSyu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51698/devtools/browser/c0617e4b-07aa-48a3-836d-078944a98c59
+1663486096795	geckodriver	INFO	Listening on 127.0.0.1:51766
+1663486099904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofiley5QMH5"
+1663486100159	Marionette	INFO	Marionette enabled
+1663486100163	Marionette	INFO	Listening on port 51776
+WebDriver BiDi listening on ws://localhost:51767
+Read port: 51776
+1663486100330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663486117863	geckodriver	INFO	Listening on 127.0.0.1:51787
+1663486120933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileBdRW4c"
+1663486121178	Marionette	INFO	Marionette enabled
+1663486121182	Marionette	INFO	Listening on port 51797
+WebDriver BiDi listening on ws://localhost:51788
+Read port: 51797
+1663486121390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofileBdRW4c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51788/devtools/browser/e0c56aa3-745a-469d-abd6-f414ba6308f4
+1663486175899	Marionette	INFO	Stopped listening on port 51797
+!!! error running onStopped callback: TypeError: callback is not a function
+1663486232047	geckodriver	INFO	Listening on 127.0.0.1:51859
+1663486235124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile7xaSc7"
+1663486235364	Marionette	INFO	Marionette enabled
+1663486235368	Marionette	INFO	Listening on port 51870
+WebDriver BiDi listening on ws://localhost:51860
+Read port: 51870
+1663486235571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Paul\\AppData\\Local\\Temp\\rust_mozprofile7xaSc7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51860/devtools/browser/9e9f08bb-b237-4eda-86a6-09ae2d67850b
+1663486244893	Marionette	INFO	Stopped listening on port 51870
