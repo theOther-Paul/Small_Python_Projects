@@ -29,3 +29,8 @@ This repo contains some basic terminal programs that helped me understand variou
 - after the development is done, this project will have a console menu for the user to input a base file and to run some menu option to add or remove various characteristics of a product
 - is constructed using only classes to read from a base file, add prices to raw product identifiers and modify other characteristics such as name and description
 - will have a method to set up a backup file, should the situation need it
+
+### Selenium-X
+
+- a colection of selenium webdriver flows on various websites such as imdb, wikipedia and heroku (to be added)
+- principles used: searching objects after speciffic elements (XPATH, ID, class and CSS Selector) and exception handling
